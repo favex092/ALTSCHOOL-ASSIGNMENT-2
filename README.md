@@ -1,6 +1,6 @@
 ## React js Project
 
-- Github Profile Stat - github API
+- Pagination using randomuser.me API
 
 ## Demo links
 
